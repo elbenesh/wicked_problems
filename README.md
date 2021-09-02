@@ -1,1 +1,4 @@
-# wicked_problems
+# Wicked Problems Introduction
+
+
+## ![](IMG_1982.png)
