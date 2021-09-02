@@ -1,4 +1,6 @@
-# Wicked Problems Introduction
+# Wicked Problems Introduction - Eli Benesh
 
 
-## ![](IMG_1982.png)
+## About Me
+
+![](details.png)
