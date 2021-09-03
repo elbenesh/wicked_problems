@@ -1,4 +1,4 @@
-# Wicked Problems Introduction - Eli Benesh
+# Wicked Problems (DATA 100)
 
 
 ## About Me
