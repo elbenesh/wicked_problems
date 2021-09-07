@@ -2,7 +2,7 @@
 
 1. a)[Getting Started with R Code](https://github.com/elbenesh/wicked_problems/blob/942fcecf4f10db57c186f288f9a7d1a0b969fc01/A_Persons_Path_Between_Homes_Work.R)
    
-   b)[Getting Started with R Plot](https://elbenesh.github.com/wicked_problems/Persons_Path_Plot.png)
+   b)[Getting Started with R Plot](https://github.com/elbenesh/wicked_problems/blob/main/Persons_Path_Plot.png)
 
 
 ## About Me
